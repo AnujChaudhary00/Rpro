@@ -1,1 +1,1 @@
-Print("it is a existing reposatory which has been uploaded to github")
+print("it is a existing reposatory which has been uploaded to github")
